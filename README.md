@@ -1,2 +1,1 @@
-# design-patterns-typescript
-Design Patterns is TypeScript
+# Design Patterns is TypeScript
