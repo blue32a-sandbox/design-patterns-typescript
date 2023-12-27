@@ -1,3 +1,5 @@
+export {};
+
 interface AbstractFactory {
   createProductA(): AbstractProductA;
   createProductB(): AbstractProductB;
