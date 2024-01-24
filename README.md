@@ -9,3 +9,7 @@
 - [Factory Method](./src/FactoryMethod/README.md)
 - [Prototype](./src/Prototype/README.md)
 - [Singleton](./src/Singleton/README.md)
+
+### Structural
+
+- [Adapter](./src/Adapter/README.md)
