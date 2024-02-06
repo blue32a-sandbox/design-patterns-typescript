@@ -14,3 +14,4 @@
 
 - [Adapter](./src/Adapter/README.md)
 - [Bridge](./src/Bridge/README.md)
+- [Composite](./src/Composite/README.md)
