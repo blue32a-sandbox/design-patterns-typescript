@@ -15,3 +15,7 @@
 - [Adapter](./src/Adapter/README.md)
 - [Bridge](./src/Bridge/README.md)
 - [Composite](./src/Composite/README.md)
+
+### Behavioral
+
+- [Mediator](./src/Mediator/README.md)
