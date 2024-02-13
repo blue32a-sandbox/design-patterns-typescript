@@ -19,3 +19,4 @@
 ### Behavioral
 
 - [Mediator](./src/Mediator/README.md)
+- [Observer](./src/Observer/README.md)
