@@ -16,6 +16,7 @@
 - [Bridge](./src/Bridge/README.md)
 - [Composite](./src/Composite/README.md)
 - [Decorator](./src/Decorator/README.md)
+- [Facade](./src/Facade/README.md)
 
 ### Behavioral
 
