@@ -17,6 +17,7 @@
 - [Composite](./src/Composite/README.md)
 - [Decorator](./src/Decorator/README.md)
 - [Facade](./src/Facade/README.md)
+- [Flyweight](./src/Flyweight/README.md)
 
 ### Behavioral
 
