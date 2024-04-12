@@ -18,6 +18,7 @@
 - [Decorator](./src/Decorator/README.md)
 - [Facade](./src/Facade/README.md)
 - [Flyweight](./src/Flyweight/README.md)
+- [Proxy](./src/Proxy/README.md)
 
 ### Behavioral
 
