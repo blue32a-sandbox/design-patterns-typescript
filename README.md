@@ -22,5 +22,6 @@
 
 ### Behavioral
 
+- [Chain of Responsibility](./src/ChainOfResponsibility/README.md)
 - [Mediator](./src/Mediator/README.md)
 - [Observer](./src/Observer/README.md)
