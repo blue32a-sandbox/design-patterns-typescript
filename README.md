@@ -24,5 +24,6 @@
 
 - [Chain of Responsibility](./src/ChainOfResponsibility/README.md)
 - [Command](./src/Command/README.md)
+- [Iterator](./src/Iterator/README.md)
 - [Mediator](./src/Mediator/README.md)
 - [Observer](./src/Observer/README.md)
