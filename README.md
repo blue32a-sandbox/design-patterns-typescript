@@ -26,4 +26,5 @@
 - [Command](./src/Command/README.md)
 - [Iterator](./src/Iterator/README.md)
 - [Mediator](./src/Mediator/README.md)
+- [Memento](./src/Memento/README.md)
 - [Observer](./src/Observer/README.md)
