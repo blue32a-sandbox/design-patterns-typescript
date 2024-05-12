@@ -28,3 +28,4 @@
 - [Mediator](./src/Mediator/README.md)
 - [Memento](./src/Memento/README.md)
 - [Observer](./src/Observer/README.md)
+- [State](./src/State/README.md)
