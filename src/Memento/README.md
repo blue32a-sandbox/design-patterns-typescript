@@ -7,7 +7,7 @@ https://refactoring.guru/ja/design-patterns/memento
 ```mermaid
 classDiagram
   class Originator {
-    save(): Memento
+    save() Memento
     restore(m: Memento)
   }
   class Memento {
@@ -24,7 +24,7 @@ classDiagram
 ```mermaid
 classDiagram
   class Originator {
-    save(): Memento
+    save() Memento
     restore(m: Memento)
   }
   class Memento {
