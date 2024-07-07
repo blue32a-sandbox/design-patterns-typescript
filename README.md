@@ -30,3 +30,4 @@
 - [Observer](./src/Observer/README.md)
 - [State](./src/State/README.md)
 - [Strategy](./src/Strategy/README.md)
+- [Template Method](./src/TemplateMethod/README.md)
